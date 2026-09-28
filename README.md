@@ -5,9 +5,9 @@ Este es el repositorio de backend para la gestión de un **Club Deportivo**, des
 ## Integrantes del Grupo
 * Alvaro Ricardo Avalos Aguilar - 114565 
 Juan Pablo Tacunan Navarro - 112500 
-Kayl Omar Ponce Enciso. - 
-116317 Smith Junior Montes Solorzano - 114434
-
+Kayl Omar Ponce Enciso. - 116317 
+Smith Junior Montes Solorzano - 114434
+Julian Joel Cansino -116419
 
 ---
 
